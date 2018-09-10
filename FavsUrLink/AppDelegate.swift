@@ -13,7 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
     
-    let apiKey = "AIzaSyCTol08DC1HlMDB7XWgfHoXJMNeg1EfG7A"
+    let apiKey = "<api key>"
     
     private var subscription: GNSSubscription?
     var publication: GNSPublication?
